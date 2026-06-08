@@ -1,2 +1,2 @@
 # GPUProject
-CUDA and OpenMP implementations of three CPU algorithms. Find the implementations in the src folder in cuda.cu and openmp.c respectively. 
+CUDA and OpenMP implementations of three CPU algorithms. Find the implementations in the src folder in cuda.cu and openmp.c respectively. You will also find a report written about the choice of implementations and the obtained results. The goal of the implementations consisted in not only increasing throughput but also increasing speed of original CPU algorithm. Clearly, a CUDA/OpenMP reimplementation might either improve or worsen the speed, depending on the algorithm itself. 
